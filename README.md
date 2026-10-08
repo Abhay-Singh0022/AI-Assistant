@@ -35,4 +35,3 @@ AI-Assistant/
 └── .gitignore
 ├── requirements.txt
 ├── .gitignore
-└── .env
